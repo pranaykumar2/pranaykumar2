@@ -2,18 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+Digital+Frontier;I+am+Pranay+Kumar+Yerikala;Cybersecurity+Sentinel&center=true&size=20&color=00FFFF&font=JetBrains%20Mono" alt="Futuristic Intro">
 </h1>
 
-<p align="center">
-  <img src="/api/placeholder/1000/400" alt="Futuristic Cityscape" width="100%">
-</p>
-
-## 💠 Initializing System
 
 
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&display=swap');
 
-## 🌐 System Overview
+## 🌐Overview
 
 Greetings, digital wanderer. I am Pranay Kumar Yerikala, your guide through this cybernetic landscape. Allow me to illuminate the path of my journey through the realms of code and security.
 
