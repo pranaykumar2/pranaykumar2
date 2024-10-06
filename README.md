@@ -34,9 +34,9 @@ These are not mere tools, but extensions of my digital self.
 ## 🏆 Achievement Unlocked
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Architect-FF9900?style=for-the-badge&logo=amazon-aws" alt="AWS Certification">
-  <img src="https://img.shields.io/badge/NPTEL-Cybernetic%20Warrior-00A86B?style=for-the-badge" alt="NPTEL Certification">
-  <img src="https://img.shields.io/badge/Tata-Digital%20Sentinel-0052CC?style=for-the-badge" alt="Tata Certification">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws" alt="AWS Certification">
+  <img src="https://img.shields.io/badge/NPTEL-Ethical%20Hacking-00A86B?style=for-the-badge" alt="NPTEL Certification">
+  <img src="https://img.shields.io/badge/Tata-Cybersecurity-0052CC?style=for-the-badge" alt="Tata Certification">
 </p>
 
 Each certification, a milestone in my evolution. A testament to the challenges overcome and knowledge assimilated.
