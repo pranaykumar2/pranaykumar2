@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+Digital+Frontier;I+am+Pranay+Kumar+Yerikala;Cybersecurity+Sentinel&center=true&size=30&color=00FFFF&font=JetBrains%20Mono" alt="Futuristic Intro">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+Digital+Frontier;I+am+Pranay+Kumar+Yerikala;Cybersecurity+Sentinel&center=true&size=20&color=00FFFF&font=JetBrains%20Mono" alt="Futuristic Intro">
 </h1>
 
 <p align="center">
