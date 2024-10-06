@@ -8,18 +8,10 @@
 
 ## 💠 Initializing System
 
-```css
+
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&display=swap');
-
-/* 
-Recommended Fonts:
-- Headers: Orbitron
-- Body: Rajdhani
-- Accents: Syncopate
-*/
-```
 
 ## 🌐 System Overview
 
