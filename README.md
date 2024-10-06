@@ -90,7 +90,7 @@ Even in the serious realm of cybersecurity, a bit of humor helps to defrag the m
 
 ## 📊 Github Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=babaafrid&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaykumar2&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 ## 📡 Establish Connection
 
 Initiate communication protocols:
