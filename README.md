@@ -26,7 +26,7 @@ These are not mere tools, but extensions of my digital self.
 
 </td>
 <td width="40%">
-<img src="/api/placeholder/400/300" alt="Holographic Skill Display">
+<img src="https://github.com/pranaykumar2/pranaykumar2/blob/main/pic.png" alt="Holographic Skill Display">
 </td>
 </tr>
 </table>
