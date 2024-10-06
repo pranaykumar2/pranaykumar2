@@ -63,27 +63,6 @@ Each certification, a milestone in my evolution. A testament to the challenges o
 </tr>
 </table>
 
-## 🚀 Project Codex
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Blockchain Identity Matrix</h3>
-<p align="center">
-  <img src="/api/placeholder/400/300" alt="Blockchain Visualization">
-</p>
-<p>A decentralized identity verification network, where every digital footprint is securely etched into the blockchain.</p>
-</td>
-<td width="50%">
-<h3 align="center">Quantum Cryptography Suite</h3>
-<p align="center">
-  <img src="/api/placeholder/400/300" alt="Cryptography Visualization">
-</p>
-<p>An impenetrable fortress of algorithms, where data finds sanctuary from even the most advanced quantum attacks.</p>
-</td>
-</tr>
-</table>
-
 ## 📊 System Metrics
 
 <p align="center">
