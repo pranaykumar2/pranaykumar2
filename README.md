@@ -86,7 +86,66 @@ Holographic projections of challenges conquered and milestones achieved in this 
   <img src="https://readme-jokes.vercel.app/api?theme=cyberpunk" alt="Cybersecurity Joke">
 </p>
 
-Even in the serious realm of cybersecurity, a bit of humor helps to defrag the mind.
+Even in the serious realm of cybersecurity, a bit of humor helps to def
+
+
+## 💻 Code Nexus: Interactive Algorithm Vault
+
+<p align="center">Witness the power of algorithmic mastery. Select a sorting algorithm to visualize its efficiency:</p>
+
+<p align="center">
+  <a href="https://github.com/pranaykumar2/sorting-visualizer" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Quick%20Sort&bg=20232a&tc=61dafb" alt="Quick Sort">
+  </a>
+  <a href="https://github.com/pranaykumar2/sorting-visualizer" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Merge%20Sort&bg=20232a&tc=61dafb" alt="Merge Sort">
+  </a>
+  <a href="https://github.com/pranaykumar2/sorting-visualizer" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Heap%20Sort&bg=20232a&tc=61dafb" alt="Heap Sort">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/pranaykumar2/pranaykumar2/blob/main/sorting-viz.gif" alt="Sorting Algorithm Visualization" width="600">
+</p>
+
+<p align="center"><i>Behold the elegance of efficient data manipulation.</i></p>
+
+## 🛡️ Cybersecurity Command Center: Threat Matrix
+
+<p align="center">Real-time visualization of global cyber threats detected and neutralized:</p>
+
+<p align="center">
+  <img src="https://github.com/pranaykumar2/pranaykumar2/blob/main/threat-map.gif" alt="Cybersecurity Threat Map" width="600">
+</p>
+
+<table>
+<tr>
+<th>Threat Type</th>
+<th>Detected</th>
+<th>Neutralized</th>
+</tr>
+<tr>
+<td>DDoS Attacks</td>
+<td>🔴 🔴 🔴 🔴 ⚪</td>
+<td>🟢 🟢 🟢 🟢 ⚪</td>
+</tr>
+<tr>
+<td>Malware Intrusions</td>
+<td>🔴 🔴 🔴 ⚪ ⚪</td>
+<td>🟢 🟢 🟢 ⚪ ⚪</td>
+</tr>
+<tr>
+<td>Phishing Attempts</td>
+<td>🔴 🔴 🔴 🔴 🔴</td>
+<td>🟢 🟢 🟢 🟢 🟢</td>
+</tr>
+</table>
+
+<p align="center"><i>Safeguarding the digital realm, one threat at a time.</i></p>
+
+
+
 
 ## 📊 Github Stats
 
