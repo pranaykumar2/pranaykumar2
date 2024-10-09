@@ -103,18 +103,6 @@ Initiate communication protocols:
   <a href="https://github.com/pranaykumar2"><img src="https://img.shields.io/badge/GitHub%20Code%20Nexus-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-## 👁️ Neural Network Observers
-
-<p align="center">Recent entities that have accessed this node:</p>
-
-<p align="center">
-  <img src="https://readme-viewers.vercel.app/pranaykumar2" alt="Profile Viewers">
-</p>
-
-<p align="center"><i>Tracking digital footprints in the cyber realm...</i></p>
-
-[Rest of the content remains unchanged]
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranaykumar2&color=00FFFF&style=for-the-badge" alt="Neural Network Connections">
 </p>
