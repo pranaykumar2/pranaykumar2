@@ -31,10 +31,10 @@ Greetings, fellow digital voyagers. Step into my realm of bits and bytes, where 
 <td width="50%">
 
 ### 💻 Code Mastery
-- ☕ Java: <img src="https://progress-bar.dev/95/">
-- 🐍 Python: <img src="https://progress-bar.dev/90/">
-- ⚡ C/C++: <img src="https://progress-bar.dev/85/">
-- 🌐 JavaScript: <img src="https://progress-bar.dev/80/">
+- ☕ Java: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+- 🐍 Python: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- ⚡ C/C++: <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+- 🌐 JavaScript: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 </td>
 </tr>
@@ -94,6 +94,12 @@ Greetings, fellow digital voyagers. Step into my realm of bits and bytes, where 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaykumar2&theme=react-dark&hide_border=true&custom_title=Contributions%20Across%20Time" alt="Contribution Graph" width="100%">
+</p>
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/pranaykumar2/pranaykumar2/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
 
 ## 🌐 Tech Arsenal Proficiency
