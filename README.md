@@ -132,19 +132,12 @@ Initiate communication protocols:
   <img src="https://komarev.com/ghpvc/?username=pranaykumar2&color=00FFFF&style=for-the-badge" alt="Neural Network Connections">
 </p>
 
-
-*******
-
-<img src="https://myreadme.vercel.app/api/embed/pranaykumar2?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 *******
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaykumar2&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
 
 
 *******
-
-<img src="https://komarev.com/ghpvc/?username=HEMANTHESWARREDDY&color=brightgreen" alt="watching_count" /> 
 
 
 
