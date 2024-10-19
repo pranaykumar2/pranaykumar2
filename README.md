@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+Digital+Frontier;I+am+Pranay+Kumar+Yerikala;Cybersecurity+Sentinel&center=true&size=20&color=00FFFF&font=JetBrains%20Mono" alt="Futuristic Intro">
 </h1>
 
-
-
-
-## 🌐Overview
+## 🌐 Overview
 
 Greetings, digital wanderer. I am Pranay Kumar Yerikala, your guide through this cybernetic landscape. Allow me to illuminate the path of my journey through the realms of code and security.
 
@@ -41,27 +38,16 @@ These are not mere tools, but extensions of my digital self.
 
 Each certification, a milestone in my evolution. A testament to the challenges overcome and knowledge assimilated.
 
-## 🌌 Missions Undertaken
+## 🌟 Featured Repositories
 
-<table>
-<tr>
-<td width="50%">
-<h3>Slash Mark Cybernetics Division</h3>
-
-- 🔐 Engineered a ghost protocol keylogger
-- 🧮 Devised quantum-resistant encryption algorithms
-- 🕸️ Constructed a neural web application with adaptive security
-
-</td>
-<td width="50%">
-<h3>Navodita Infotech Nexus</h3>
-
-- 🕵️ Conducted deep-dive vulnerability assessments
-- 📡 Transmitted critical intel on emerging cyber threats
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/pranaykumar2/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaykumar2&repo=repo1&theme=radical" alt="Featured Repo 1" />
+  </a>
+  <a href="https://github.com/pranaykumar2/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaykumar2&repo=repo2&theme=radical" alt="Featured Repo 2" />
+  </a>
+</p>
 
 ## 📊 System Metrics
 
@@ -80,14 +66,29 @@ These metrics reflect the pulse of my digital endeavors, a testament to consiste
 
 Holographic projections of challenges conquered and milestones achieved in this vast digital expanse.
 
+## 🔥 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaykumar2&theme=react-dark" alt="Contribution Graph">
+</p>
+
+Witness the intensity of my digital footprint across the GitHub landscape.
+
+## 🌐 Tech Stack Proficiency
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaykumar2&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+A visual representation of my mastery across various programming paradigms.
+
 ## 🎭 Cybersecurity Humor Subroutine
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=cyberpunk" alt="Cybersecurity Joke">
 </p>
 
-Even in the serious realm of cybersecurity, a bit of humor helps to def
-
+Even in the serious realm of cybersecurity, a bit of humor helps to defuse tension.
 
 ## 💻 Code Nexus: Interactive Algorithm Vault
 
@@ -111,12 +112,13 @@ Even in the serious realm of cybersecurity, a bit of humor helps to def
 
 <p align="center"><i>Behold the elegance of efficient data manipulation.</i></p>
 
+## 🏃‍♂️ GitHub Metrics
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/pranaykumar2?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" alt="GitHub Metrics">
+</p>
 
-## 📊 Github Stats
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaykumar2&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-
+A comprehensive overview of my GitHub activities and contributions.
 
 ## 📡 Establish Connection
 
@@ -131,15 +133,6 @@ Initiate communication protocols:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranaykumar2&color=00FFFF&style=for-the-badge" alt="Neural Network Connections">
 </p>
-
-*******
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaykumar2&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
-
-
-*******
-
-
 
 ---
 
