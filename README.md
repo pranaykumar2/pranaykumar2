@@ -40,6 +40,29 @@ Greetings, fellow digital voyagers. Step into my realm of bits and bytes, where 
 </tr>
 </table>
 
+## 🌌 Missions Undertaken
+
+<table>
+<tr>
+<td width="50%">
+<h3>🔒 Slash Mark Cybernetics Division</h3>
+
+- 🔐 Engineered a ghost protocol keylogger
+- 🧮 Devised quantum-resistant encryption algorithms
+- 🕸️ Constructed a neural web application with adaptive security
+
+</td>
+<td width="50%">
+<h3>🕵️ Navodita Infotech Nexus</h3>
+
+- 🕵️ Conducted deep-dive vulnerability assessments
+- 📡 Transmitted critical intel on emerging cyber threats
+- 🛡️ Implemented cutting-edge intrusion detection systems
+
+</td>
+</tr>
+</table>
+
 ## 🏆 Hall of Digital Fame
 
 <p align="center">
@@ -97,6 +120,32 @@ Greetings, fellow digital voyagers. Step into my realm of bits and bytes, where 
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card">
+</p>
+
+## 💻 Code Nexus: Interactive Algorithm Vault
+
+<p align="center">Witness the power of algorithmic mastery. Select a sorting algorithm to visualize its efficiency:</p>
+
+<p align="center">
+  <a href="https://github.com/pranaykumar2/sorting-visualizer" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Quick%20Sort&bg=20232a&tc=61dafb" alt="Quick Sort">
+  </a>
+  <a href="https://github.com/pranaykumar2/sorting-visualizer" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Merge%20Sort&bg=20232a&tc=61dafb" alt="Merge Sort">
+  </a>
+  <a href="https://github.com/pranaykumar2/sorting-visualizer" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Heap%20Sort&bg=20232a&tc=61dafb" alt="Heap Sort">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/pranaykumar2/pranaykumar2/blob/main/sorting-viz.gif" alt="Sorting Algorithm Visualization" width="600">
+</p>
+
+## 🌌 Cybersecurity Insights
+
+<p align="center">
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=your_stackoverflow_id&theme=dark" alt="StackOverflow Reputation">
 </p>
 
 ## 📡 Secure Communication Channels
