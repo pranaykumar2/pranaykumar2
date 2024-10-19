@@ -18,7 +18,7 @@ Greetings, fellow digital voyagers. Step into my realm of bits and bytes, where 
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 🛡️ Cybersecurity Arsenal
 - 🔐 Penetration Testing
@@ -28,7 +28,7 @@ Greetings, fellow digital voyagers. Step into my realm of bits and bytes, where 
 - 🧠 AI-Powered Security
 
 </td>
-<td width="10000%">
+<td width="100%">
 
 ### 💻 Code Mastery
 - ☕ Java: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
