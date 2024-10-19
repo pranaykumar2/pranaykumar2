@@ -42,7 +42,7 @@ Each certification, a milestone in my evolution. A testament to the challenges o
 
 <p align="center">
   <a href="https://github.com/pranaykumar2/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaykumar2&repo=repo1&theme=radical" alt="Featured Repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaykumar2&repo=https://github.com/pranaykumar2/CProjects&theme=radical" alt="Featured Repo 1" />
   </a>
   <a href="https://github.com/pranaykumar2/repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaykumar2&repo=repo2&theme=radical" alt="Featured Repo 2" />
