@@ -28,7 +28,7 @@ Greetings, fellow digital voyagers. Step into my realm of bits and bytes, where 
 - 🧠 AI-Powered Security
 
 </td>
-<td width="100%">
+<td width="10000%">
 
 ### 💻 Code Mastery
 - ☕ Java: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
