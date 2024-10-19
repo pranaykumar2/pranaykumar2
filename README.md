@@ -111,40 +111,6 @@ Even in the serious realm of cybersecurity, a bit of humor helps to def
 
 <p align="center"><i>Behold the elegance of efficient data manipulation.</i></p>
 
-## 🛡️ Cybersecurity Command Center: Threat Matrix
-
-<p align="center">Real-time visualization of global cyber threats detected and neutralized:</p>
-
-<p align="center">
-  <img src="https://github.com/pranaykumar2/pranaykumar2/blob/main/threat-map.gif" alt="Cybersecurity Threat Map" width="600">
-</p>
-
-<table>
-<tr>
-<th>Threat Type</th>
-<th>Detected</th>
-<th>Neutralized</th>
-</tr>
-<tr>
-<td>DDoS Attacks</td>
-<td>🔴 🔴 🔴 🔴 ⚪</td>
-<td>🟢 🟢 🟢 🟢 ⚪</td>
-</tr>
-<tr>
-<td>Malware Intrusions</td>
-<td>🔴 🔴 🔴 ⚪ ⚪</td>
-<td>🟢 🟢 🟢 ⚪ ⚪</td>
-</tr>
-<tr>
-<td>Phishing Attempts</td>
-<td>🔴 🔴 🔴 🔴 🔴</td>
-<td>🟢 🟢 🟢 🟢 🟢</td>
-</tr>
-</table>
-
-<p align="center"><i>Safeguarding the digital realm, one threat at a time.</i></p>
-
-
 
 
 ## 📊 Github Stats
@@ -165,6 +131,22 @@ Initiate communication protocols:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranaykumar2&color=00FFFF&style=for-the-badge" alt="Neural Network Connections">
 </p>
+
+
+*******
+
+<img src="https://myreadme.vercel.app/api/embed/pranaykumar2?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+*******
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaykumar2&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
+
+
+*******
+
+<img src="https://komarev.com/ghpvc/?username=HEMANTHESWARREDDY&color=brightgreen" alt="watching_count" /> 
+
+
 
 ---
 
