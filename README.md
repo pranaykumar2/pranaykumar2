@@ -87,7 +87,8 @@ A visual representation of my mastery across various programming paradigms.
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=cyberpunk" alt="Cybersecurity Joke">
 </p>
-
+<br/>
+<br/>
 Even in the serious realm of cybersecurity, a bit of humor helps to defuse tension.
 
 ## 💻 Code Nexus: Interactive Algorithm Vault
