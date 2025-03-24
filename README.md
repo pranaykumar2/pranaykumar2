@@ -78,8 +78,8 @@ Greetings, fellow digital voyagers. Step into my realm of bits and bytes, where 
   <a href="https://github.com/pranaykumar2/keylogger">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaykumar2&repo=keylogger&theme=midnight-purple" alt="Keylogger" />
   </a>
-  <a href="https://github.com/pranaykumar2/ivs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaykumar2&repo=ivs&theme=midnight-purple" alt="Identity Verification System" />
+  <a href="https://github.com/pranaykumar2/steg-go">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaykumar2&repo=steg-go&theme=midnight-purple" alt="Identity Verification System" />
   </a>
 </p>
 
